@@ -1,0 +1,20 @@
+#!/usr/bin/env node
+
+/**
+ * Module dependencies.
+ */
+
+var program = require('commander');
+var repo = require('..');
+
+// parse argv
+
+program
+  .option('-p, --path <path>', 'make a copy of the currently installed components in the registry compatible format')
+  .parse(process.argv);
+
+if (program.path) {
+  repo.registry(program.path);
+} else {
+  program.help();
+}
