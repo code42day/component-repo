@@ -2,7 +2,7 @@
   "name": "component-repo",
   "version": "0.1.0",
   "description": "Create component registry from installed components",
-  "author": "Damian Krzeminski <pirxpilot@code42day.com>",
+  "author": "Damian Krzeminski <pirxpilot@furkot.com>",
   "license": "MIT",
   "main": "index.js",
   "preferGlobal": true,
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/code42day/component-repo.git"
+    "url": "git://github.com/pirxpilot/component-repo.git"
   },
   "keywords": [
     "component",

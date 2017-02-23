@@ -1,4 +1,4 @@
-[![Dependency Status](https://img.shields.io/gemnasium/code42day/component-repo.svg)](https://gemnasium.com/code42day/component-repo)
+[![Dependency Status](https://img.shields.io/gemnasium/pirxpilot/component-repo.svg)](https://gemnasium.com/pirxpilot/component-repo)
 [![NPM version](https://img.shields.io/npm/v/component-repo.svg)](https://www.npmjs.org/package/component-repo)
 # component-repo
 
